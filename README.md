@@ -2,7 +2,7 @@
 
 # Deployment URL 
 
-https://aviralsingh108.github.io/khwaahishNgo/
+https://aviralksingh9.github.io/khwaahishNgo/
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.3.
 
